@@ -1,0 +1,10 @@
+{
+  "variant": "2",
+  "project_name": "Nexage",
+  "new_project_name": "Keskil",
+  "sid": "20",
+  "test_name": "test for Keskil",
+  "method_name": "method for Keskil",
+  "env": "Keskil desktop machine",
+  "log": "log for Keskil test"
+}

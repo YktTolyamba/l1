@@ -1,0 +1,7 @@
+<suite name="L2 exam testing suite">
+    <test name="Exam">
+        <classes>
+            <class name="TestCases"/>
+        </classes>
+    </test>
+</suite>
